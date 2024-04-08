@@ -1,0 +1,1 @@
+//! Success or Ok response abstraction is defined here

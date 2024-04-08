@@ -1,0 +1,14 @@
+[package]
+edition = "2021"
+name = "hash_router"
+version = "0.1.0"
+authors = ["Floris floris@xylex.ai"]
+description = "Hash router for discord ID's"
+readme = "README.md"
+license = "APACHE"
+
+
+[dependencies]
+dotenv = "0.15.0"
+serde_json = "1.0.115"
+supabase_rs = "0.2.2"
