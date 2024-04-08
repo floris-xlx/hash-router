@@ -5,7 +5,7 @@ version = "0.1.0"
 authors = ["Floris floris@xylex.ai"]
 description = "Hash router for discord ID's"
 readme = "README.md"
-license = "APACHE"
+
 
 
 [dependencies]
