@@ -26,7 +26,7 @@ This crate is structured into several modules, each responsible for a specific a
 To get started with the Hash Router, add it to your `Cargo.toml`:
 ```toml
 [dependencies]
-hash_router = "0.1.0"
+hash_router = "0.1.2"
 ```
 
 

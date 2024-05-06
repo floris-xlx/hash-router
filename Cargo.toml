@@ -1,7 +1,7 @@
 [package]
 edition = "2021"
 name = "hash_router"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Floris floris@xylex.ai"]
 description = "Hash router for discord ID's"
 readme = "README.md"
@@ -13,4 +13,4 @@ license = "MIT"
 [dependencies]
 dotenv = "0.15.0"
 serde_json = "1.0.115"
-supabase_rs = "0.2.6"
+supabase_rs = "0.2.7"
