@@ -5,6 +5,8 @@ version = "0.1.1"
 authors = ["Floris floris@xylex.ai"]
 description = "Hash router for discord ID's"
 readme = "README.md"
+license = "MIT"
+
 
 
 
